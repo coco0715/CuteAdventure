@@ -17,3 +17,5 @@ Unity 게임개발 입문 개인과제
 ## 📌 주요 기능
 - 캐릭터의 이동 (Input SYstem)
 
+##  PlayerCharacter Cuti
+![Player_Character_2023-09-07-10-48-41](https://github.com/coco0715/CuteAdventure/assets/101281567/10141b0b-4b26-4784-8a8b-97810f64eae9)
